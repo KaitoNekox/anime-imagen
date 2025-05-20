@@ -2,11 +2,11 @@
   "name": "anime-image-api",
   "version": "1.0.0",
   "description": "API for random anime images",
-  "main": "index.js",
+  "main": "api/anime-image.js",
   "dependencies": {
     "axios": "^1.6.0"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "node api/anime-image.js"
   }
 }
